@@ -3,9 +3,9 @@ RENATO BIBOLOTTI ARCHIVES
 Sitio estático listo para GitHub Pages. No requiere instalación ni comando de build.
 
 Rutas principales:
-- https://rboarchives.com/
-- https://rboarchives.com/drummercareer/
-- https://rboarchives.com/contact/
+- https://irenato98.github.io/wabibyflowneuro/
+- https://irenato98.github.io/drummercareer/
+- https://irenato98.github.io/contact/
 
 Para publicar:
 1. Descomprime el ZIP.
